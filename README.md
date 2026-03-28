@@ -866,4 +866,4 @@ System can evolve into a more efficient, secure, and accessible healthcare solut
 better patient-doctor interactions and ultimately improving the overall quality of medical
 services.
 
-<video controls src="20260328-1311-58.3864434.mp4" title="Title"></video>
+[Watch the demo video](20260328-1311-58.3864434.mp4)
