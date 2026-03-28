@@ -865,5 +865,7 @@ By addressing these recommendations, the Smart Health Appointment Management
 System can evolve into a more efficient, secure, and accessible healthcare solution, offering
 better patient-doctor interactions and ultimately improving the overall quality of medical
 services.
-
-[Watch the demo video](20260328-1311-58.3864434.mp4)
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
